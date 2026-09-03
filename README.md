@@ -2,7 +2,7 @@
 
 Fitness club chain, Krasnodar — a Tilda landing page.
 
-**Live:** https://erix319.github.io/tilda-fitness-life/
+**Live:** https://pafuluofu-dev.github.io/tilda-fitness-life/
 
 ## About
 
